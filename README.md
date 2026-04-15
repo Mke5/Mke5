@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Computer Science student passionate about building real-world solutions  
+- 🎓 Computer Science student building real-world solutions  
 - 🔭 Currently working on:  
   👉 <a href="https://github.com/Mke5/MyAgent-with-Php">MyAgent</a>  
 - 🌱 Learning:  
@@ -35,7 +35,7 @@
 
 #### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,php,go" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,php,go,rust" />
 </p>
 
 #### ⚙️ Frameworks & Libraries
