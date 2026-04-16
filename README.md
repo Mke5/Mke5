@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Emmanuel Michael</h1>
-<h3 align="center">🚀 Computer Science Undergrad | Full Stack & AI </h3>
+<h3 align="center">🚀 Computer Science Undergrad | Full Stack & ML </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mke5&label=Profile%20views&color=0e75b6&style=flat" alt="mke5" />
