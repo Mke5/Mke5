@@ -15,7 +15,7 @@
 - 🌱 Learning:  
   **Advanced C, Assembly, Computer Vision (OpenCV), PyTorch & TensorFlow**  
 - 💬 Ask me about:  
-  **Backend dev, APIs, AI, or anything tech**  
+  **Backend dev, APIs, or anything tech**  
 - 📫 Reach me:  
   **emma08062602618@gmail.com**
 
@@ -69,4 +69,4 @@
 ---
 
 ### ⚡ Fun Fact
-I enjoy building systems that *actually solve problems*, not just tutorials 😄
+I enjoy building systems that *actually solve problems*, not just tutorials
